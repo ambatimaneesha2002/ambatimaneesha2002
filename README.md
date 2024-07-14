@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</p>
-
-## 3D View: Hi, I'm Ambati Maneesha - A Passionate Full-Stack Developer
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
-
+## Hi 👋, I'm Ambati Maneesha
+### A passionate full-stack developer from India
 
 <div align="center">
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
