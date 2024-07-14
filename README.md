@@ -6,8 +6,9 @@
 ### A passionate full-stack developer from India
 
 <div align="center">
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  [Typing SVG
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎## Hi 👋, I'm Ambati Maneesha
+### A passionate full-stack developer from India</span>
+
 </div>
 
 
