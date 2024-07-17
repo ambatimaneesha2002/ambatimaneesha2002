@@ -2,12 +2,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
-## Hi 👋, I'm Ambati Maneesha
-### A passionate full-stack developer from India
+
 
 <div align="center">
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎## Hi 👋, I'm Ambati Maneesha
-### A passionate full-stack developer from India</span>
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎## Hi 👋, **I'm Ambati Maneesha**
+A passionate **MERN STACK developer** from India</span>
 
 </div>
 
@@ -20,11 +19,12 @@
 - 📫 How to reach me: **ambatimaneesha552@gmail.com**
 - 📄 Check out my LinkedIn: [Ambati Maneesha](https://linkedin.com/in/ambati-maneesha-6313b3231/)
 - 🏆 My LeetCode Profile: [Maneesha1005](https://leetcode.com/u/Maneesha1005/)
+- 🏆 My portfolio Profile: [Maneesha](https://portfolio-maneesha.netlify.app/)
 
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,nodejs,django,git,firebase,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,nodejs,django,git,firebase,react,mongodb,django" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,angular,bash,figma,vscode,ts" />
 </p>
@@ -34,6 +34,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/ambati-maneesha-6313b3231/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambati-maneesha" height="30" width="40" />
+  </a>
+   <a href="https://leetcode.com/u/Maneesha1005/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode-in-alt.svg" alt="ambati-maneesha" height="30" width="40" />
+  </a>
+   <a href="https://www.hackerrank.com/profile/ambatimaneesha51" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank-in-alt.svg" alt="ambati-maneesha" height="30" width="40" />
   </a>
 </p>
 
