@@ -6,7 +6,7 @@
 
 <div align="center">
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎## Hi 👋, **I'm Ambati Maneesha**
-A passionate **MERN STACK developer** from India</span>
+A passionate **MERN STACK developer and Python Developer** from India</span>
 
 </div>
 
