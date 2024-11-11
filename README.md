@@ -1,27 +1,24 @@
-
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE4NDg2MTQsIm5iZiI6MTcyMTg0ODMxNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI0VDE5MTE1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0MDY1ZGUxZmRlNDhmNzhkNTZiZGVmODliODVjZmJmZjEyNTE5NzQ1NzczNmY1MzEzMzlhNTExOWE4ZmIxMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.80oSHuDt5bIn2Ag18N6NeD7aHREZK6BICDIaW-j_eHQ" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Ambati Maneesha's Banner"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Ambati Maneesha</h1>
+<h3 align="center">A Passionate MERN Stack and Python Developer from India</h3>
 
-<div align="center">
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎## Hi 👋, **I'm Ambati Maneesha**
-A passionate **MERN STACK developer and Python Developer** from India</span>
+<p align="center">
+  <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+</p>
 
-</div>
-
-
-
-<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-- 🌱 I'm currently learning **React, Node.js, and MongoDB**
+- 🌱 Currently learning **React, Node.js, and MongoDB**
 - 💬 Ask me about **MERN stack**
-- 📫 How to reach me: **ambatimaneesha552@gmail.com**
-- 📄 Check out my LinkedIn: [Ambati Maneesha](https://linkedin.com/in/ambati-maneesha-6313b3231/)
-- 🏆 My LeetCode Profile: [Maneesha1005](https://leetcode.com/u/Maneesha1005/)
-- 🏆 My portfolio Profile: [Maneesha](https://portfolio-maneesha.netlify.app/)
+- 📫 Reach me at: **ambatimaneesha552@gmail.com**
+- 📄 Connect with me on [LinkedIn](https://linkedin.com/in/ambati-maneesha-6313b3231/)
+- 🏆 Check out my [LeetCode Profile](https://leetcode.com/u/Maneesha1005/)
+- 🌐 View my [Portfolio](https://portfolio-maneesha.netlify.app/)
 
-## Languages & Tools
+---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,nodejs,django,git,firebase,react,mongodb,django" />
@@ -29,43 +26,51 @@ A passionate **MERN STACK developer and Python Developer** from India</span>
   <img src="https://skillicons.dev/icons?i=mysql,angular,bash,figma,vscode,ts" />
 </p>
 
-## Connect With Me
+---
+
+### 📞 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ambati-maneesha-6313b3231/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambati-maneesha" height="30" width="40" />
+  <a href="https://linkedin.com/in/ambati-maneesha-6313b3231/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-   <a href="https://leetcode.com/u/Maneesha1005/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode-in-alt.svg" alt="ambati-maneesha" height="30" width="40" />
+  <a href="https://leetcode.com/u/Maneesha1005/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode-in-alt.svg" alt="LeetCode" height="30" width="40" />
   </a>
-   <a href="https://www.hackerrank.com/profile/ambatimaneesha51" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank-in-alt.svg" alt="ambati-maneesha" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/ambatimaneesha51" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank-in-alt.svg" alt="Hackerrank" height="30" width="40" />
   </a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ambatimaneesha2002&label=Profile%20Views&theme=react-dark&style=plastic" alt="ambatimaneesha2002" /> 
+  <img src="https://komarev.com/ghpvc/?username=ambatimaneesha2002&label=Profile%20Views&theme=react-dark&style=plastic" alt="Profile Views Counter" /> 
 </p>
 
-Ambati's github activity graph
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambatimaneesha2002&show_icons=true&locale=en&layout=compact" alt="ambatimaneesha2002" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambatimaneesha2002&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ambatimaneesha2002&show_icons=true&locale=en" alt="ambatimaneesha2002" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ambatimaneesha2002&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambatimaneesha2002&" alt="ambatimaneesha2002" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambatimaneesha2002" alt="GitHub Streak"/>
+</p>
 
-## Projects
+---
 
-Here are some of my recent full-stack development projects:
+### 💼 Recent Projects
 
-1. **E-commerce Web Application**: Developed with Next.JS (React) + Tailwind CSS for the front-end/UI, Context API for state management, and a Custom REST API for the backend.
-2. **Chat Application**: Built using React, Node.js, and Socket.io with MongoDB as the database.
-3. **Hospital Management System**: Developed using PHP and MySQL.
-4. **Coronavirus (COVID-19) Full Stack Application**: A web application that provides real-time updates and information about the COVID-19 pandemic.
+1. **E-commerce Web Application**: Built using Next.JS, Tailwind CSS for UI, Context API for state management, and a custom REST API for backend.
+2. **Real-time Chat Application**: Developed with React, Node.js, and Socket.io, using MongoDB for data storage.
+3. **Hospital Management System**: Created with PHP and MySQL.
+4. **COVID-19 Full Stack Application**: Provides real-time updates on the COVID-19 pandemic, using multiple APIs.
 
-I'm always eager to learn new technologies and work on exciting full-stack projects. Feel free to reach out if you have any opportunities or ideas you'd like to discuss!
+---
+
+I'm always eager to collaborate on innovative full-stack projects! If you have any ideas or opportunities, feel free to reach out.
