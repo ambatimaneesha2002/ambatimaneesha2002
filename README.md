@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Ambati Maneesha's Banner"/>
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Ambati Maneesha</h1>
@@ -28,6 +28,8 @@
 
 ---
 
+
+
 ### 📞 Connect With Me
 
 <p align="center">
@@ -35,12 +37,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/Maneesha1005/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode-in-alt.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/ambatimaneesha51" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank-in-alt.svg" alt="Hackerrank" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ambatimaneesha2002&label=Profile%20Views&theme=react-dark&style=plastic" alt="Profile Views Counter" /> 
